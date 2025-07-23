@@ -1,2 +1,0 @@
-AddPersonnelAliasSLHD.au3|2.7.0.9
-SLHD_HNACombine.au3|0.1.1.15
